@@ -1,0 +1,14 @@
+commit 8d907cd2e7760818c6a55b5f8e1b5efe34303a03 (HEAD -> master)
+Author: llkroschu <lukas.lansche@ksre.kroschu.com>
+Date:   Thu Jan 1 01:16:03 1970 +0100
+
+    added exposurecompensation, intervideosink and aelock=true
+
+commit e6aa502c9c612e0e89e513b7e60c5f98a755820f (origin/master, origin/HEAD)
+Merge: 903fae3 78cb693
+Author: Dustin Franklin <dustinf@nvidia.com>
+Date:   Tue Jul 2 10:12:08 2024 -0400
+
+    Merge pull request #213 from johnnynunez/patch-1
+    
+    Create CITATION.cff
